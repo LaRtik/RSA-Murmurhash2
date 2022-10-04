@@ -1,4 +1,4 @@
-#RSA + Mummurhash2
+# RSA + Mummurhash2
 С++ crypting project.
 
 Functional features:
